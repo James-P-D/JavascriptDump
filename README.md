@@ -16,8 +16,9 @@ Dumping ground for Javascript
 * [loops.js](https://github.com/James-P-D/JavascriptDump/blob/master/src/loops.js)  
 * [arrays.html](https://github.com/James-P-D/JavascriptDump/blob/master/src/arrays.html)  
 * [arrays.js](https://github.com/James-P-D/JavascriptDump/blob/master/src/arrays.js)  
-* [variables.html](https://github.com/James-P-D/JavascriptDump/blob/master/src/variables.html)  
-* [variables.js](https://github.com/James-P-D/JavascriptDump/blob/master/src/variables.js)  
+* [functions.html](https://github.com/James-P-D/JavascriptDump/blob/master/src/functions.html)  
+* [functions.js](https://github.com/James-P-D/JavascriptDump/blob/master/src/functions.js)  
+
 * [variables.html](https://github.com/James-P-D/JavascriptDump/blob/master/src/variables.html)  
 * [variables.js](https://github.com/James-P-D/JavascriptDump/blob/master/src/variables.js)  
 * [variables.html](https://github.com/James-P-D/JavascriptDump/blob/master/src/variables.html)  
