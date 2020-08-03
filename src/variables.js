@@ -31,3 +31,8 @@ if (true == true) {
 // Unlike with 'let', this is fine!
 document.write("var_variable = ", var_variable, " (outside if)<br/>");
 
+// '==' checks for equality, regardless of type
+// '===' checks for equality *and* same type
+
+document.write("0 == '0' = ", 0 == '0', "<br/>");   // This is True (!)
+document.write("0 === '0' = ", 0 === '0', "<br/>"); // This is False as expected
