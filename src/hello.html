@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+  <body>
+    <p id="sayHello"></p>
+    <!-- We can embed JS in HTML with <script> -->
+    <script> 
+      var yourName = prompt("What is your name?");
+ 
+      if(yourName != null){
+        document.getElementById("sayHello").innerHTML = "Hello " + yourName;
+      } else {
+        alert("Please Enter Your Name Next Time");
+      }
+    </script>
+  </body>
+</html>
