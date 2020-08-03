@@ -37,7 +37,7 @@ for(k in customer) {
 }
 
 // Doesn't appear to be a 'for-each' construct, but there is a property on arrays..
-var some_list = [0,	1,	1,	2,	3,	5,	8,	13,	21,	34,	55,	89,	144]	
+var some_list = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144]
 some_list.forEach(function(value) {
     document.write(value, "<br />");
 })
