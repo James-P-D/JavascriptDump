@@ -18,8 +18,10 @@ Dumping ground for Javascript
 * [arrays.js](https://github.com/James-P-D/JavascriptDump/blob/master/src/arrays.js)  
 * [functions.html](https://github.com/James-P-D/JavascriptDump/blob/master/src/functions.html)  
 * [functions.js](https://github.com/James-P-D/JavascriptDump/blob/master/src/functions.js)  
+* [DOM_Interaction.html](https://github.com/James-P-D/JavascriptDump/blob/master/src/DOM_Interaction.html)  
 
-* [variables.html](https://github.com/James-P-D/JavascriptDump/blob/master/src/variables.html)  
+
+<!--
 * [variables.js](https://github.com/James-P-D/JavascriptDump/blob/master/src/variables.js)  
 * [variables.html](https://github.com/James-P-D/JavascriptDump/blob/master/src/variables.html)  
 * [variables.js](https://github.com/James-P-D/JavascriptDump/blob/master/src/variables.js)  
@@ -27,3 +29,4 @@ Dumping ground for Javascript
 * [variables.js](https://github.com/James-P-D/JavascriptDump/blob/master/src/variables.js)  
 * [variables.html](https://github.com/James-P-D/JavascriptDump/blob/master/src/variables.html)  
 * [variables.js](https://github.com/James-P-D/JavascriptDump/blob/master/src/variables.js)  
+-->
